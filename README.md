@@ -1,2 +1,2 @@
-# Handwritting-Recognition-ML
+# Handwriting-Recognition-ML
 Files for recognizing handwritten digits from MNIST data set
